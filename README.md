@@ -14,6 +14,8 @@ A Front-End Machine Test by [Oodles Technologies](https://www.oodlestechnologies
   * HTML5
   * CSS3/SASS
   * Bootstrap 4
+  * JavaScript
+  * jQuery
   * Gulp Plugins:
     * gulp-sass
     * gulp-autoprefixer
