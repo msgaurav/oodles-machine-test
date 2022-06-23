@@ -1,20 +1,19 @@
 {
-  "name": "cattyboard",
+  "name": "automate-workspace",
   "version": "1.0.0",
-  "description": "Week 1 assignment by Pesto Tech",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "gulp": "gulp"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gaurav Aggarwal",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.1.1",
+    "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2"
   }
 }
